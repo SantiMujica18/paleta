@@ -1,0 +1,137 @@
+
+body{
+    background-color: black;}
+
+.titulo{
+color: aliceblue;
+text-align: center;
+background-color: rgb(9, 32, 240);
+border-radius: 10px;
+position: relative;
+    top: 30px;
+}
+
+.morado{
+    background-color: #FBEEE6;
+    width: 100px;
+    height: 50px;
+    position: relative;
+        top: 50px;
+}
+
+.claro{
+    background-color: #D2B4DE;
+        width: 100px;
+        height: 50px;
+        position: relative;
+            top: 32px;
+    }
+
+    .clarito{
+      background-color: #BB8FCE ;
+        width: 120px;
+        height: 50px;
+        position: relative;
+        top: 16px;
+    }
+
+    .mas{
+      background-color: #A569BD; 
+        width: 120px;
+        height: 50px;
+    }
+
+        .naranja {
+            background-color: #F5CBA7;
+            width: 120px;
+            height: 50px;
+            position: relative;
+            top: 50px;
+        }
+    
+        .naranjau {
+            background-color: #F0B27A;
+            width: 120px;
+            height: 50px;
+            position: relative;
+            top: 32px;
+        }
+    
+        .naranjad{
+            background-color: #EB984E;
+            width: 120px;
+            height: 50px;
+            position: relative;
+            top: 16px
+        }
+    
+        .naranjat{
+            background-color: #E67E22;
+            width: 120px;
+            height: 50px;
+        }
+
+        .morado{
+    background-color: #E1BEE7;
+    width: 120px;
+    height: 50px;
+    position: relative;
+        top: 50px;
+}
+
+.claro{
+    background-color: #D2B4DE;
+        width: 120px;
+        height: 50px;
+        position: relative;
+            top: 32px;
+    }
+
+    .clarito{
+      background-color: #BB8FCE ;
+        width: 120px;
+        height: 50px;
+        position: relative;
+        top: 16px;
+    }
+
+    .mas{
+      background-color: #A569BD; 
+        width: 120px;
+        height: 50px;
+    }
+
+        .verde {
+            background-color: rgb(241, 124, 124);
+            width: 120px;
+            height: 50px;
+            position: relative;
+            top: 50px;
+        }
+    
+        .verdeu {
+            background-color: rgb(245, 97, 97);
+            width: 120px;
+            height: 50px;
+            position: relative;
+            top: 32px;
+        }
+    
+        .verded {
+            background-color: rgb(250, 65, 65);
+            width: 120px;
+            height: 50px;
+            position: relative;
+            top: 16px;
+        }
+    
+        .verdet {
+            background-color: rgb(252, 26, 26);
+            width: 120px;
+            height: 50px;
+        }
+        .padre{
+            display: flex;
+            justify-content: space-around;
+        }
+
